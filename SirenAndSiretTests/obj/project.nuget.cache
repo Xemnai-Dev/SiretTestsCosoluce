@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OvH1XgZwzvbyqPV1JWO19aQt3g+VbgBWm1A18L8/uxFBypnWh2HqV+859ORHZnLXkToJ0rDcj6s2/f0r2SjIfQ==",
+  "dgSpecHash": "Idowa4R6NerkXMQIJ9yNWYIb2+p3aB2TnuoBYsI/kQM75FslgTVFZQEO9Vpm2O6LiRkE47oKw7DZFydONcuOvQ==",
   "success": true,
-  "projectFilePath": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiretTests\\SirenAndSiretTests.csproj",
+  "projectFilePath": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiretTests\\SirenAndSiretTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pheli\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\pheli\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

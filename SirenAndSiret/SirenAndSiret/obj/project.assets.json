@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj",
+      "projectUniqueName": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj",
       "projectName": "SirenAndSiret",
-      "projectPath": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj",
+      "projectPath": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj",
       "packagesPath": "C:\\Users\\pheli\\.nuget\\packages\\",
-      "outputPath": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiret\\SirenAndSiret\\obj\\",
+      "outputPath": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiret\\SirenAndSiret\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pheli\\AppData\\Roaming\\NuGet\\NuGet.Config",

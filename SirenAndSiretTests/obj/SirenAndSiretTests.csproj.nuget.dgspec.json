@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiretTests\\SirenAndSiretTests.csproj": {}
+    "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiretTests\\SirenAndSiretTests.csproj": {}
   },
   "projects": {
-    "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiretTests\\SirenAndSiretTests.csproj": {
+    "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiretTests\\SirenAndSiretTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiretTests\\SirenAndSiretTests.csproj",
+        "projectUniqueName": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiretTests\\SirenAndSiretTests.csproj",
         "projectName": "SirenAndSiretTests",
-        "projectPath": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiretTests\\SirenAndSiretTests.csproj",
+        "projectPath": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiretTests\\SirenAndSiretTests.csproj",
         "packagesPath": "C:\\Users\\pheli\\.nuget\\packages\\",
-        "outputPath": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiretTests\\obj\\",
+        "outputPath": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiretTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pheli\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj": {
-                "projectPath": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj"
+              "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj": {
+                "projectPath": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj": {
+    "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj",
+        "projectUniqueName": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj",
         "projectName": "SirenAndSiret",
-        "projectPath": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj",
+        "projectPath": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiret\\SirenAndSiret\\SirenAndSiret.csproj",
         "packagesPath": "C:\\Users\\pheli\\.nuget\\packages\\",
-        "outputPath": "X:\\Dev Perso\\Cosoluce\\Siret2\\SirenAndSiret\\SirenAndSiret\\obj\\",
+        "outputPath": "X:\\Dev Perso\\Cosoluce\\Siret\\SirenAndSiret\\SirenAndSiret\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pheli\\AppData\\Roaming\\NuGet\\NuGet.Config",

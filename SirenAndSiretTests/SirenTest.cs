@@ -15,7 +15,7 @@ namespace SirenAndSiretTests
         [TestMethod]
         public void TestValidSirenIsValid()
         {
-            Siren siren = new Siren("800403222"); // Valid
+            Siren siren = new Siren("732829320"); // Valid
             Assert.IsTrue(siren.IsValid);
         }
         [TestMethod]
@@ -24,6 +24,7 @@ namespace SirenAndSiretTests
             Siren siren = new Siren("89564753256"); // To Long
             Assert.IsFalse(siren.IsValid);
         }
+        [TestMethod]
         public void TestToShortSirenIsInvalid()
         {
             Siren siren = new Siren("6879546"); // To Short

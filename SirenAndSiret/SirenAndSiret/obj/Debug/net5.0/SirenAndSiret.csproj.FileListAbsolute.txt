@@ -1,0 +1,12 @@
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\bin\Debug\net5.0\SirenAndSiret.deps.json
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\bin\Debug\net5.0\SirenAndSiret.dll
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\bin\Debug\net5.0\ref\SirenAndSiret.dll
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\bin\Debug\net5.0\SirenAndSiret.pdb
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\obj\Debug\net5.0\SirenAndSiret.csprojAssemblyReference.cache
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\obj\Debug\net5.0\SirenAndSiret.GeneratedMSBuildEditorConfig.editorconfig
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\obj\Debug\net5.0\SirenAndSiret.AssemblyInfoInputs.cache
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\obj\Debug\net5.0\SirenAndSiret.AssemblyInfo.cs
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\obj\Debug\net5.0\SirenAndSiret.csproj.CoreCompileInputs.cache
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\obj\Debug\net5.0\SirenAndSiret.dll
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\obj\Debug\net5.0\ref\SirenAndSiret.dll
+X:\Dev Perso\Cosoluce\Siret2\SirenAndSiret\SirenAndSiret\obj\Debug\net5.0\SirenAndSiret.pdb
